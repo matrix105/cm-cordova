@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="587cf93f-2131-4203-893b-690a09e1f1e8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/head.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/js/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579182077967</updated>
       <workItem from="1579182079456" duration="3714000" />
-      <workItem from="1579273290027" duration="9859000" />
+      <workItem from="1579273290027" duration="10128000" />
     </task>
     <servers />
   </component>
@@ -85,6 +81,10 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="315" y="0" key="#PHP/0.0.1280.800@0.0.1280.800" timestamp="1579275031325" />
+    <state x="262" y="118" key="RollbackChangesDialog" timestamp="1579465351254">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="262" y="118" key="RollbackChangesDialog/0.0.1280.800@0.0.1280.800" timestamp="1579465351254" />
     <state x="429" y="324" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579275299534">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
