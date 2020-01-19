@@ -13,11 +13,6 @@
     "cordova-plugin-locationservices-fix": {
       "PACKAGE_NAME": "com.group22.collectormonkey"
     },
-    "cordova-plugin-googlemaps": {
-      "PLAY_SERVICES_VERSION": "15.0.1",
-      "ANDROID_SUPPORT_V4_VERSION": "27.+",
-      "PACKAGE_NAME": "com.group22.collectormonkey"
-    },
     "cordova-sqlcipher-adapter": {
       "PACKAGE_NAME": "com.group22.collectormonkey"
     },

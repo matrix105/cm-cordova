@@ -98,8 +98,6 @@ ext {
 }
 
 // PLUGIN GRADLE EXTENSIONS START
-apply from: "../cordova-plugin-googlemaps/collectormonkey-tbxml-android.gradle"
-apply from: "../cordova-plugin-googlemaps/collectormonkey-apikey.gradle"
 // PLUGIN GRADLE EXTENSIONS END
 
 def hasBuildExtras1 = file('build-extras.gradle').exists()
@@ -296,9 +294,6 @@ dependencies {
     // SUB-PROJECT DEPENDENCIES START
     implementation(project(path: ":CordovaLib"))
     implementation "com.google.android.gms:play-services-location:7.5.0"
-    implementation "com.google.android.gms:play-services-maps:15.0.1"
-    implementation "com.google.android.gms:play-services-location:15.0.1"
-    implementation "com.android.support:support-core-utils:27.+"
     // SUB-PROJECT DEPENDENCIES END
 }
 

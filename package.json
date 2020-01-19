@@ -16,7 +16,6 @@
     "cordova-android": "^8.1.0",
     "cordova-browser": "^6.0.0",
     "cordova-plugin-file-transfer": "^1.7.1",
-    "cordova-plugin-googlemaps": "^2.6.2",
     "cordova-plugin-locationservices-fix": "^1.0.2",
     "cordova-sqlcipher-adapter": "^0.4.1"
   },
@@ -27,11 +26,6 @@
     "plugins": {
       "cordova-plugin-whitelist": {},
       "cordova-plugin-locationservices-fix": {},
-      "cordova-plugin-googlemaps": {
-        "API_KEY_FOR_ANDROID": "AIzaSyCGVRHnJ0uzicEo5f3Z6QKL38fvf4ojNpc",
-        "PLAY_SERVICES_VERSION": "15.0.1",
-        "ANDROID_SUPPORT_V4_VERSION": "27.+"
-      },
       "cordova-sqlcipher-adapter": {},
       "cordova-plugin-battery-status": {},
       "cordova-plugin-camera": {},
