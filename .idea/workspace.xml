@@ -2,8 +2,240 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="587cf93f-2131-4203-893b-690a09e1f1e8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/.cordova" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/.github/ISSUE_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/.github/ISSUE_TEMPLATE/feature_request.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/.github/ISSUE_TEMPLATE/private-support.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/.github/ISSUE_TEMPLATE/question-or-bug-report.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/.jsbeautifyrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/build_test.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/images/api_key_restrictions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/images/browser_demo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/images/circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/images/development_mode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/images/documentations.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/images/encode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/images/geocoder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/images/groundoverlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/images/htmlInfoWindow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/images/icon-android.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/images/icon-ios.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/images/kmloverlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/images/locationService.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/images/map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/images/marker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/images/markercluster.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/images/modern_browsers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/images/poly.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/images/polygon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/images/polyline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/images/spherical.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/images/streetview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/images/tileoverlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/images/touch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/jest-cordova-resolver.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/jest.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/jsdoc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/pull_request_template.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/frameworks/apikey.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/frameworks/tbxml-android.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/frameworks/tbxml-android.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/plugin/google/maps/AsyncLoadImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/plugin/google/maps/AsyncLoadImageInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/plugin/google/maps/BitmapCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/plugin/google/maps/CordovaGoogleMaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/plugin/google/maps/IPluginView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/plugin/google/maps/MyPlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/plugin/google/maps/MyPluginInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/plugin/google/maps/MyPluginLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/plugin/google/maps/ObjectCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/plugin/google/maps/PluginAsyncInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/plugin/google/maps/PluginCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/plugin/google/maps/PluginEnvironment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/plugin/google/maps/PluginGeocoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/plugin/google/maps/PluginGroundOverlay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/plugin/google/maps/PluginKmlOverlay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/plugin/google/maps/PluginLocationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/plugin/google/maps/PluginMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/plugin/google/maps/PluginMarker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/plugin/google/maps/PluginMarkerCluster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/plugin/google/maps/PluginPolygon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/plugin/google/maps/PluginPolyline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/plugin/google/maps/PluginStreetViewPanorama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/plugin/google/maps/PluginTileOverlay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/plugin/google/maps/PluginTileProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/plugin/google/maps/PluginUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/res/drawable/dummy_my_location_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/res/drawable/dummy_mylocation_button_shadow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/res/layout/dummy_infowindow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/res/values-ar/pgm_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/res/values-da/pgm_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/res/values-de/pgm_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/res/values-es/pgm_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/res/values-fr/pgm_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/res/values-hi/pgm_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/res/values-in/pgm_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/res/values-ja/pgm_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/res/values-nb/pgm_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/res/values-nl/pgm_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/res/values-pl/pgm_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/res/values-pt-rPT/pgm_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/res/values-ru/pgm_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/res/values-uk/pgm_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/res/values-vi/pgm_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/android/res/values/pgm_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/browser/CordovaGoogleMaps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/browser/PluginCircle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/browser/PluginEnvironment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/browser/PluginGeocoder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/browser/PluginGroundOverlay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/browser/PluginKmlOverlay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/browser/PluginLocationService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/browser/PluginMap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/browser/PluginMarker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/browser/PluginMarkerCluster.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/browser/PluginPolygon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/browser/PluginPolyline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/browser/PluginStreetViewPanorama.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/browser/PluginTileOverlay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/browser/__test__/PluginMap.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/CordovaGoogleMaps.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/CordovaGoogleMaps.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/GMSCoordinateBounds+Geometry.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/GMSCoordinateBounds+Geometry.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/IPluginProtocol.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/IPluginView.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/MFGoogleMapAdditions/GMSCoordinateBounds+Geometry.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/MFGoogleMapAdditions/GMSCoordinateBounds+Geometry.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/MFGoogleMapAdditions/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/MFGoogleMapAdditions/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/MyPluginLayer.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/MyPluginLayer.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/MyPluginScrollView.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/MyPluginScrollView.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginCircle.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginCircle.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginEnvironment.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginEnvironment.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginGeocoder.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginGeocoder.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginGroundOverlay.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginGroundOverlay.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginKmlOverlay.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginKmlOverlay.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginLocationService.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginLocationService.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginMap.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginMap.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginMapViewController.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginMapViewController.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginMarker.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginMarker.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginMarkerCluster.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginMarkerCluster.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginObjects.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginObjects.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginPolygon.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginPolygon.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginPolyline.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginPolyline.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginStreetViewPanorama.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginStreetViewPanorama.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginStreetViewPanoramaController.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginStreetViewPanoramaController.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginTileOverlay.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginTileOverlay.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginTileProvider.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginTileProvider.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginUtil.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginUtil.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginViewController.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/PluginViewController.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/TBXML.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/TBXML.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/UIImageCache.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/UIImageCache.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/check_sdk_version.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/strings/pgm_Localizable_ar.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/strings/pgm_Localizable_da.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/strings/pgm_Localizable_de.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/strings/pgm_Localizable_en.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/strings/pgm_Localizable_es.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/strings/pgm_Localizable_fr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/strings/pgm_Localizable_hi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/strings/pgm_Localizable_in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/strings/pgm_Localizable_ja.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/strings/pgm_Localizable_nb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/strings/pgm_Localizable_nl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/strings/pgm_Localizable_pl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/strings/pgm_Localizable_pt-BR.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/strings/pgm_Localizable_ru.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/strings/pgm_Localizable_uk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/src/ios/strings/pgm_Localizable_vi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/tests/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/tests/plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/tests/tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/tests/travis.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/BaseArrayClass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/BaseClass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/CameraPosition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/Circle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/Cluster.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/Common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/Environment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/Geocoder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/GroundOverlay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/HtmlInfoWindow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/InlineWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/KmlLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/KmlOverlay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/LatLng.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/LatLngBounds.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/Location.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/LocationService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/Map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/MapTypeId.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/Marker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/MarkerCluster.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/Overlay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/Polygon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/Polyline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/Promise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/StreetViewPanorama.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/Thread.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/TileOverlay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/VisibleRegion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/__test__/BaseArrayClass.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/__test__/BaseClass.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/__test__/Geocoder.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/__test__/__snapshots__/Geocoder.spec.js.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/commandQueueExecutor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/encoding.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/event.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/geomodel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/js_CordovaGoogleMaps-for-android_ios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/js_CordovaGoogleMaps-for-browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/plugin-loader-for-android_ios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/plugin-loader-for-browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/pluginInit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/poly.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/promise-7.0.4.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-googlemaps/www/spherical.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/android.json" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/android.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/browser.json" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/browser.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/fetch.json" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/fetch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/zaid.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +298,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579182077967</updated>
       <workItem from="1579182079456" duration="3714000" />
-      <workItem from="1579273290027" duration="10128000" />
+      <workItem from="1579273290027" duration="10836000" />
     </task>
     <servers />
   </component>
@@ -85,10 +317,10 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="262" y="118" key="RollbackChangesDialog/0.0.1280.800@0.0.1280.800" timestamp="1579465351254" />
-    <state x="429" y="324" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579275299534">
+    <state x="429" y="324" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579466329755">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="429" y="324" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.800@0.0.1280.800" timestamp="1579275299534" />
+    <state x="429" y="324" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.800@0.0.1280.800" timestamp="1579466329755" />
     <state x="305" y="185" key="run.anything.popup" timestamp="1579279407009">
       <screen x="0" y="23" width="1280" height="721" />
     </state>

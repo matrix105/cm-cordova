@@ -9,6 +9,15 @@
   "installed_plugins": {
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.group22.collectormonkey"
+    },
+    "cordova-plugin-locationservices-fix": {
+      "PACKAGE_NAME": "com.group22.collectormonkey"
+    },
+    "cordova-plugin-googlemaps": {
+      "PACKAGE_NAME": "com.group22.collectormonkey"
+    },
+    "cordova-sqlcipher-adapter": {
+      "PACKAGE_NAME": "com.group22.collectormonkey"
     }
   },
   "dependent_plugins": {}
