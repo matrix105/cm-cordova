@@ -18,7 +18,14 @@
     },
     "cordova-sqlcipher-adapter": {
       "PACKAGE_NAME": "com.group22.collectormonkey"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "com.group22.collectormonkey"
     }
   },
-  "dependent_plugins": {}
+  "dependent_plugins": {
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.group22.collectormonkey"
+    }
+  }
 }
