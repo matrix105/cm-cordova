@@ -1,0 +1,56 @@
+{
+  "_from": "cordova-plugin-locationservices-fix",
+  "_id": "cordova-plugin-locationservices-fix@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha1-M5xpA3gphOp7a27a0w/S2htiNEw=",
+  "_location": "/cordova-plugin-locationservices-fix",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-locationservices-fix",
+    "name": "cordova-plugin-locationservices-fix",
+    "escapedName": "cordova-plugin-locationservices-fix",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-locationservices-fix/-/cordova-plugin-locationservices-fix-1.0.2.tgz",
+  "_shasum": "339c6903782984ea7b6b6edad30fd2da1b62344c",
+  "_spec": "cordova-plugin-locationservices-fix",
+  "_where": "/Users/marwan/.bitnami/stackman/machines/xampp/volumes/root/htdocs/cordova/collectormonkey",
+  "author": {
+    "name": "louisbl"
+  },
+  "bugs": {
+    "url": "https://github.com/ZenCity/cordova-plugin-locationservices/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-locationservices-fix",
+    "platforms": [
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "Android geolocation plugin using Google Play Services Location API.",
+  "homepage": "https://github.com/ZenCity/cordova-plugin-locationservices#readme",
+  "keywords": [
+    "cordova",
+    "google-play-services",
+    "geolocation",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "Apache 2.0",
+  "name": "cordova-plugin-locationservices-fix",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZenCity/cordova-plugin-locationservices.git"
+  },
+  "version": "1.0.2"
+}
